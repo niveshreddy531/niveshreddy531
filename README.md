@@ -1,8 +1,7 @@
-
 # Hi, I'm Nivesh 👋
 
 **ML Data Analyst | Python · SQL · Power BI · TensorFlow**
-📍 United Kingdom &nbsp;|&nbsp; 📧 niveshreddy756@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/niveshreddy531)
+📍 United Kingdom &nbsp;|&nbsp; 📧 niveshreddy756@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/niveshreddy)
 
 ---
 
@@ -77,4 +76,4 @@ Currently based in London and open to **ML Data Analyst**, **AI Data Specialist*
 
 Open to opportunities, collaborations, or a quick chat about ML and data.
 
-[📧 Email me](mailto:niveshreddy756@gmail.com) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/niveshreddy531) &nbsp;|&nbsp; [🐙 GitHub](https://github.com/niveshreddy531)
+[📧 Email me](mailto:niveshreddy756@gmail.com) &nbsp;|&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/niveshreddy) &nbsp;|&nbsp; [🐙 GitHub](https://github.com/niveshreddy531)
